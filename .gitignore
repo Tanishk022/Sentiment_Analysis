@@ -1,0 +1,21 @@
+# Virtual Environment
+venv/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Jupyter Notebook Cache
+.ipynb_checkpoints/
+
+# VS Code Settings
+.vscode/
+gi
+# OS Files
+.DS_Store
+Thumbs.db
+# glove.6B/glove.6B.50d.txt
+# glove.6B/
+
+
+git lfs version
